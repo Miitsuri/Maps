@@ -6,5 +6,9 @@
   "wot": {
     "index": "",
     "disabled": false
+  },
+  "csgo": {
+    "index": "/src/csgo/maps.json",
+    "disabled": true
   }
 }
