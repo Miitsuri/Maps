@@ -1,1 +1,72 @@
-{}
+{
+  "agency": {
+    "title": "Agency",
+    "type": "HOSTAGE_RESCUE",
+    "file": "resources/cs_agency_radar.jpg"
+  },
+  "office": {
+    "title": "Office",
+    "type": "HOSTAGE_RESCUE",
+    "file": "resources/cs_office_radar.jpg"
+  },
+  "anubis": {
+    "title": "Anubis",
+    "type": "BOMB_DEFUSE",
+    "file": "resources/de_anubis_radar.jpg"
+  },
+  "cache": {
+    "title": "Cache",
+    "type": "BOMB_DEFUSE",
+    "file": "resources/de_cache_radar.jpg"
+  },
+  "chlorine": {
+    "title": "Chlorine",
+    "type": "BOMB_DEFUSE",
+    "file": "resources/de_chlorine_radar.jpg"
+  },
+  "dust2": {
+    "title": "Dust II",
+    "type": "BOMB_DEFUSE",
+    "file": "resources/de_dust2_radar.jpg"
+  },
+  "inferno": {
+    "title": "Inferno",
+    "type": "BOMB_DEFUSE",
+    "file": "resources/de_inferno_radar.jpg"
+  },
+  "mirage": {
+    "title": "Mirage",
+    "type": "BOMB_DEFUSE",
+    "file": "resources/de_mirage_radar.jpg"
+  },
+  "nuke_lower": {
+    "title": "Nuke (Lower Level)",
+    "type": "BOMB_DEFUSE",
+    "file": "resources/de_nuke_lower_radar.jpg"
+  },
+  "nuke_upper": {
+    "title": "Nuke (Upper Level)",
+    "type": "BOMB_DEFUSE",
+    "file": "resources/de_nuke_radar.jpg"
+  },
+  "overpass": {
+    "title": "Overpass",
+    "type": "BOMB_DEFUSE",
+    "file": "resources/de_overpass_radar.jpg"
+  },
+  "train": {
+    "title": "Train",
+    "type": "BOMB_DEFUSE",
+    "file": "resources/de_train_radar.jpg"
+  },
+  "vertigo_lower": {
+    "title": "Vertigo (Lower Level)",
+    "type": "BOMB_DEFUSE",
+    "file": "resources/de_vertigo_lower_radar.jpg"
+  },
+  "vertigo_upper": {
+    "title": "Vertigo (Upper Level)",
+    "type": "BOMB_DEFUSE",
+    "file": "resources/de_vertigo_radar.jpg"
+  }
+}
