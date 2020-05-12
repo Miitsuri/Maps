@@ -8,7 +8,7 @@
     "disabled": false
   },
   "csgo": {
-    "index": "/src/csgo/maps.json",
+    "index": "/csgo/data.json",
     "disabled": true
   }
 }

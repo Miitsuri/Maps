@@ -2,7 +2,7 @@
 
 Current index:
 
-- `maps.json`: Contains all map information.
+- `data.json`: Contains all map information.
 
 ## Maps Data Object Schema
 
